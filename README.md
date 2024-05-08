@@ -1,8 +1,14 @@
-# React + Vite
+# Color Palette Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A color palette generator application built using React, HTML, and Tailwind CSS. It allows you to randomly generate color palettes, lock colors you want to keep, copy them to the clipboard, and download the entire palette as an image.
 
-Currently, two official plugins are available:
+![Screenshot of Color Palette Generator](./screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> _Replace the above placeholder with a path to your screenshot._
+
+## Features
+
+- **Random Color Generation**: Press the **Space** key to randomly generate a new color palette.
+- **Lock Colors**: Click the lock icon to lock a color, preventing it from changing during the next palette generation.
+- **Copy Colors**: Click the color code to copy it to your clipboard.
+- **Download Palette**: Download the entire palette as a PNG image.
