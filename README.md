@@ -4,7 +4,6 @@ A color palette generator application built using React, HTML, and Tailwind CSS.
 
 ![Screenshot of Color Palette Generator](./screenshot.png)
 
-> _Replace the above placeholder with a path to your screenshot._
 
 ## Features
 
